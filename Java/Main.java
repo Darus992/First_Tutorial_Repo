@@ -5,4 +5,8 @@ public class Main {
         System.out.println("Testing! :)");
         System.out.println("+1!");
     }
+
+    public static void someMethod(){
+        //Content
+    }
 }
