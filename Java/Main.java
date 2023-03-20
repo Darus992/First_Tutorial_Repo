@@ -8,5 +8,6 @@ public class Main {
 
     public static void someMethod(){
         //Content
+        System.out.println("Do your thing!");
     }
 }
